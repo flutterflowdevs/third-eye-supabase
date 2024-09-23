@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "Bitte erlauben Sie den Kamerazugriff.";
+NSMicrophoneUsageDescription = "Bitte erlauben Sie dem Mikrofon, Audio aufzunehmen.";

@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "カメラへのアクセスを許可してください。";
+NSMicrophoneUsageDescription = "マイクが音声を録音できるようにしてください。";
