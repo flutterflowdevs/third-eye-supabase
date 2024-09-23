@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "Pelase permite acesso à câmera.";
+NSMicrophoneUsageDescription = "Por favor, permita que o microfone grave áudio.";

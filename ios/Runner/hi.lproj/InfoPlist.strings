@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "कृपया कैमरा एक्सेस की अनुमति दें।";
+NSMicrophoneUsageDescription = "कृपया माइक को ऑडियो रिकॉर्ड करने की अनुमति दें।";
